@@ -1,0 +1,3 @@
+Pasta post-001: os 8 slides do carrossel, em JPEG 1080x1350.
+Suba a PASTA post-001 inteira no repositório (Add file > Upload files, arrastando a pasta).
+Não suba este arquivo LEIA-ME.
